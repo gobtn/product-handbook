@@ -7,7 +7,8 @@ Or in Google’s words “focus on the user and all else will follow”.  We opt
 ## Actions, not Ads. 
 We value manifested intent over manufactured intent. People only have 24 hours in each day. We build a better business in mobile with actions that helps people do more of what they want to do, quicker, and returning as much of people’ valuable attention to them. 
 
-## Bias towards scalability. While solving a problem manually a few times is a great way to learn it well enough so as to scale it, we aim for products that scale exceptionally well and to provide Omotenashi through technology rather than manual service. We bias towards providing an outstanding self-service experience to achieve scale. 
+## Bias towards scalability. 
+While solving a problem manually a few times is a great way to learn it well enough so as to scale it, we aim for products that scale exceptionally well and to provide Omotenashi through technology rather than manual service. We bias towards providing an outstanding self-service experience to achieve scale. 
 
 ## Aim for universality.
 We aim to build universally applicable products to all customers in all markets over custom solutions. We are building a better, scalable model for many-to-many relationships on the same affiliate concept, rather than porting one-to-one relationships and term sheets into a mobile world.
