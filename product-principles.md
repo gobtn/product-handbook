@@ -11,7 +11,7 @@ We value manifested intent over manufactured intent. People only have 24 hours i
 While solving a problem manually a few times is a great way to learn it well enough so as to scale it, we aim for products that scale exceptionally well and to provide Omotenashi through technology rather than manual service. We bias towards providing an outstanding self-service experience to achieve scale. 
 
 ### Aim for universality.
-We aim to build universally applicable products to all customers in all markets over custom solutions. We are building a better, scalable model for many-to-many relationships on the same affiliate concept, rather than porting one-to-one relationships and term sheets into a mobile world.
+We aim to build universally applicable products to all customers in all markets over custom solutions. We are building a better, scalable model for many-to-many relationships on the affiliate concept, rather than porting one-to-one relationships and term sheets into a mobile world.
 
 ### Build trust through transparency.
 Transparency is critical to ensure our insights are trusted by business owners so they may anchor their decision making on it. Our methodology, validation, and results are transparent to business owners, and available for audit. 
