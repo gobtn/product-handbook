@@ -1,6 +1,6 @@
 The purpose of these principles is to facilitate high-velocity decision making and drive alignment across teams on critical questions that can’t be verified factually.
 
-# Product Principles
+# Product Principles / Tenets
 ### The user is your friend.
 Or in Google’s words “focus on the user and all else will follow”.  We optimize long-term customer value over short-term revenue gain. We prioritize the interest of users above all others - publishers, merchants, brands, partners and company stakeholders. We will not compromise user data for financial gain.
 
