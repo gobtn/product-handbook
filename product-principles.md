@@ -1,5 +1,13 @@
 The purpose of these principles is to facilitate high-velocity decision making and drive alignment across teams on critical questions that can’t be verified factually.
 
+Guidelines for these principles:
+- **Tenets state the how**. Our mission and vision states the what ; tenets are principles and core values that the program or team uses to fulfill the mission.
+- **Be memorable**. Two attributes of memorable tenets are challenging the reader, and being concise.
+- **Each tenet has only one main idea**. Chiseling a tenet down to a single essential idea makes the tenet memorable and clear.
+- **Counsel, not law**. Tenets help individuals make hard choices and trade-offs. They take a stand by declaring that a program cares more about one thing than another. There will be tension between tenets. And sometimes the right decision may be deviating from one. That may be okay, with adequate explicit reasoning.
+- **Tenets keep you honest**. It’s easy to get caught up in group-think or distracted by the nuances of a specific project and lose sight of the overall goals. Stepping back, setting tenets, and then considering those tenets along the way (only changing them when you step back again) will help you keep track of the wider strategy.
+
+
 # Product Principles / Tenets
 ### The user is your friend.
 Focus on the user and all else will follow.  We optimize long-term customer value over short-term revenue gain. We prioritize the interest of users above all others - publishers, merchants, brands, partners and company stakeholders. We will not compromise user data for financial gain.
