@@ -12,7 +12,7 @@ Guidelines for these principles:
 ### The user is your friend.
 Focus on the user and all else will follow.  We optimize long-term customer value over short-term revenue gain. We prioritize the interest of users above all others - publishers, merchants, brands, partners and company stakeholders. We will not compromise user data for financial gain.
 
-### Actions, not Ads. 
+### Intent over Attention. 
 We value manifested intent over manufactured intent. People only have 24 hours in each day. We build a better business in mobile with actions that help people do more of what they want to do, quicker, and returning as much of people’ valuable attention to them. 
 
 ### Bias towards scalability. 
